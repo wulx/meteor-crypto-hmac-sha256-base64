@@ -9,10 +9,8 @@ Package.on_use(function (api, where) {
   api.export && api.export('CryptoJS');
 });
 
-/** tests
 Package.on_test(function (api) {
   api.use(['crypto-hmac-sha256-base64', 'tinytest']);    
 
-  api.add_files('crypto-hmac-sha256-base64_tests.js', ['client', 'server']);
+  api.add_files('tests.js', ['client', 'server']);
 });
-*/
