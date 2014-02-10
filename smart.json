@@ -1,0 +1,9 @@
+{
+  "name": "crypto-hmac-sha256-base64",
+  "description": "SHA256 HMAC and base64 from CryptoJS repackaged for meteor",
+  "homepage": "https://github.com/wulx/meteor-crypto-hmac-sha256-base64",
+  "author": "Gurdy Woo <gurdy.woo@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/wulx/meteor-crypto-hmac-sha256-base64.git",
+  "packages": {}
+}
